@@ -10,14 +10,13 @@ October 19, 2017
 Rhianna Reichert
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+To create an Income Tax Calculator program to test your JavaScript skills that you learned in this lesson.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rnr06.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what Markdown is and how to utilize it.
+2. I learned that to modify elements in an array you MUST include brackets and element index.
+3. I learned what a Named function (related statements assigned a name; call, or reference, named function to execute it) and what an Anonymous function (related statements with no name assigned; work only where they are located in code) are.
 
